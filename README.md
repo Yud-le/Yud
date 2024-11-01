@@ -1,2 +1,2 @@
 # Yud
-My personal repository.
+- Hi, I'm HCMUS-er.
